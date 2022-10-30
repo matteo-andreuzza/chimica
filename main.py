@@ -31,6 +31,7 @@ elif num == 3:
     p2 = input("inserisci la percentuale del secondo elemento")    
     s3 = input("inserisci il simbolo del terzo elemento")
     p3 = input("inserisci la percentuale del terzo elemento")  
+    
     qsim1 = float(p1)/a[s1]
     qsim2 = float(p2)/a[s2]
     qsim3 = float(p3)/a[s3]
