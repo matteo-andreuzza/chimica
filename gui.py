@@ -14,7 +14,6 @@ def formulaMin():
     layout = [  [sg.Text("inserisci il numero di elementi presenti nel composto")],     # Part 2 - The Layout
                 [sg.Input()],
                 [sg.Button('Ok')] ]
-
     # Create the window
     window = sg.Window('Window Title', layout)      # Part 3 - Window Defintion
 
