@@ -1,6 +1,6 @@
 # chimica
 è una questione di chimica
-
+![alt text](https://i.ytimg.com/vi/qJylPiqVYI8/maxresdefault.jpg)
 
 Questa è la prima versione dell'applicazione in python 🐍per calcolare la **formula minima** 🧪 di un composto chimico. Questa applicazione fa al caso tuo se:
 - sei uno studente 📖 e devi calcolare la formula minima velocemente🏃‍♂️
